@@ -1,0 +1,43 @@
+{
+  "name": "generator-discord",
+  "version": "1.0.0",
+  "description": "Yeoman Generator for Discord.NET projects.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Dunn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpdunn/generator-discord.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yeoman-generator": "^2.0.2",
+    "yosay": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/chai": "4.0.4",
+    "@types/lodash": "4.14.78",
+    "@types/mkdirp": "0.5.1",
+    "@types/mocha": "2.2.43",
+    "@types/rimraf": "2.0.2",
+    "@types/uuid": "3.4.3",
+    "@types/yeoman-generator": "2.0.0",
+    "@types/yosay": "0.0.29",
+    "chai": "4.1.2",
+    "chokidar-cli": "1.2.0",
+    "concurrently": "3.5.0",
+    "copyfiles": "1.2.0",
+    "mkdirp": "0.5.1",
+    "mocha": "4.0.1",
+    "rimraf": "2.6.2",
+    "tslint": "5.7.0",
+    "tslint-language-service": "0.9.6",
+    "tsutils": "2.12.1",
+    "typescript": "2.5.3",
+    "uuid": "3.1.0",
+    "yeoman-assert": "3.1.0",
+    "yeoman-test": "1.7.0"
+  }
+}
